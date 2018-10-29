@@ -1,0 +1,287 @@
+[
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540796658342,
+            "changeTime": 1540796658342,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540796658343,
+            "changeTime": 1540796658343,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540796838451,
+            "changeTime": 1540796838451,
+            "contentHash": "6899b872e57456c81d7a2b00b0b5d5cee2f995d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1540796658343,
+            "changeTime": 1540796658343,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 384,
+            "modifiedTime": 1540796838496,
+            "changeTime": 1540796838496,
+            "contentHash": "f83079e3034f820bf7b8a0819abf5fc8fcc67ebc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/BlockbuitendeEOPolicyCondition.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/BlockbuitendeEOPolicyCondition.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 155,
+            "modifiedTime": 1540796838466,
+            "changeTime": 1540796838466,
+            "contentHash": "3d855c16bc775140b17f4ea9ede35eac7f1d6688",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/BlockbuitendeEOPolicyCondition.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/BlockbuitendeEOPolicyCondition.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540796838464,
+            "changeTime": 1540796838464,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/ConcurrentSessionsPolicyCondition.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/ConcurrentSessionsPolicyCondition.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3223,
+            "modifiedTime": 1540796838487,
+            "changeTime": 1540796838487,
+            "contentHash": "44e2e042bd6a5f3af56c700a8d0e6b1eb04f2c7f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/ConcurrentSessionsPolicyCondition.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/ConcurrentSessionsPolicyCondition.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540796838485,
+            "changeTime": 1540796838485,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/DataLoaderLeadExportCondition.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/DataLoaderLeadExportCondition.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 808,
+            "modifiedTime": 1540796838481,
+            "changeTime": 1540796838481,
+            "contentHash": "937bf12b9dafc661f69a7e298cabdb05aeacfc36",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/DataLoaderLeadExportCondition.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/DataLoaderLeadExportCondition.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540796838469,
+            "changeTime": 1540796838469,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/LightningConnectQuickstart.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/LightningConnectQuickstart.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 510,
+            "modifiedTime": 1540796838455,
+            "changeTime": 1540796838455,
+            "contentHash": "b42069074d93ca678229f220962be9d20b0518f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/LightningConnectQuickstart.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/LightningConnectQuickstart.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540796838452,
+            "changeTime": 1540796838452,
+            "contentHash": "0bbc645abcfeb697b84e04428472aee2ccd48650",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/TestLightningConnectQuickstart.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/TestLightningConnectQuickstart.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 843,
+            "modifiedTime": 1540796838496,
+            "changeTime": 1540796838496,
+            "contentHash": "d80b2ce940909461f55f1224699c7dd7ff5f6321",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/TestLightningConnectQuickstart.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/classes/TestLightningConnectQuickstart.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540796838493,
+            "changeTime": 1540796838493,
+            "contentHash": "0bbc645abcfeb697b84e04428472aee2ccd48650",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/pages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540796838441,
+            "changeTime": 1540796838441,
+            "contentHash": "1e29007026f713e3c042fe3452940d99eea2092e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/pages/LightningConnectQuickstart.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/pages/LightningConnectQuickstart.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 841,
+            "modifiedTime": 1540796838442,
+            "changeTime": 1540796838442,
+            "contentHash": "6c317ea1cc4d0d551e6bfd250d2bc462fa610f3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/pages/LightningConnectQuickstart.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf/force-app/main/default/pages/LightningConnectQuickstart.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 302,
+            "modifiedTime": 1540796838435,
+            "changeTime": 1540796838435,
+            "contentHash": "2886cb55f1168be3776bf101d707800f35a62f9f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kkooistr/Code/Salesforce/projects/devorgsf",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kkooistr/Code/Salesforce/projects/devorgsf",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1540796691466,
+            "changeTime": 1540796691466,
+            "contentHash": "67bcaeb63e3242ee307d017757fce647b2fdb77a",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
